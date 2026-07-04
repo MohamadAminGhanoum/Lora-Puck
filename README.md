@@ -1,5 +1,6 @@
 # Lora-Puck
 im planning on doing the lorapuck, while adding some simple and accurate sensors, which certainly will make this Lora Puck a lot more useful to me. Im planning to make 2 pcbs, one i keep at home that can track the temperature of e.g my room, and one i can take with me anywhere, and this will allow me to recieve signals from my home LORA, and i will be recieving it to my other LORA puc that i carry with me.
+NOTE: as i am making it in the EU, i should follow the european law of max. 868 MHz, and not 915 MHz like USA
 
 
 ## Schematics:
