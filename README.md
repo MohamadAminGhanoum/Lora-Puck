@@ -5,7 +5,7 @@ NOTE: as i am making it in the EU, i should follow the european law of max. 868 
 
 ## Schematics:
 
-<img width="568" height="461" alt="Screenshot 2026-06-26 at 18 24 09" src="https://github.com/user-attachments/assets/6c7412e6-36f6-4700-9983-85612c07e004" />
+<img width="847" height="583" alt="image" src="https://github.com/user-attachments/assets/17626b31-8b50-4f51-bcfe-b5a8bc3ae94b" />
 
 
 
